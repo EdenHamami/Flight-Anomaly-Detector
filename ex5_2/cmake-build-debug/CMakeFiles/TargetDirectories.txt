@@ -1,0 +1,3 @@
+C:/Users/eden/Desktop/ex5_2/cmake-build-debug/CMakeFiles/ex5_2.dir
+C:/Users/eden/Desktop/ex5_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eden/Desktop/ex5_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
